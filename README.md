@@ -1,6 +1,16 @@
-# Pk-in--black — Content HQ
+# Pk-in--black
 
-Git-as-CMS. The repo is the source of truth for every piece of content from idea to publish.
+This repo holds two related things:
+
+1. **`/axiom/`** — The productized service offering for **Axiom Intelligence Strategy Group**. A complete playbook for delivering an 8-agent content creation system to clients across three tiers (Foundation / Studio / Empire). Start at [`axiom/README.md`](./axiom/README.md), then [`axiom/build/state.md`](./axiom/build/state.md) for current status.
+
+2. **Content HQ** (this README + folders below) — The Git-as-CMS for the founder's own 139K-follower IG channel. Used as the dogfood / case study channel for Axiom (Phase 1 of the Axiom build runs the agent stack on this channel before any paying clients).
+
+---
+
+## Content HQ — Git-as-CMS
+
+The repo is the source of truth for every piece of content from idea to publish.
 
 ## Folder map
 
